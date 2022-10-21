@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/headphonesProductPage/static/css/main.4e4d20b7.css",
+    "main.js": "/headphonesProductPage/static/js/main.8dc33fbd.js",
+    "static/media/gal2323.jpg": "/headphonesProductPage/static/media/gal2323.8c33040d324ce745a43e.jpg",
+    "static/media/gal4545.jpg": "/headphonesProductPage/static/media/gal4545.b902925485aeb49addee.jpg",
+    "static/media/gal4958.jpg": "/headphonesProductPage/static/media/gal4958.4c5b5dc61c09d7cff111.jpg",
+    "static/media/gal43884.jpg": "/headphonesProductPage/static/media/gal43884.b35d98bfd10554c9c81d.jpg",
+    "static/media/gal39834.jpg": "/headphonesProductPage/static/media/gal39834.1553f330ac0d48bfb1a5.jpg",
+    "static/media/gal74744.jpg": "/headphonesProductPage/static/media/gal74744.74e32d2ccfff401b8dc8.jpg",
+    "static/media/showcase.jpg": "/headphonesProductPage/static/media/showcase.2ed2f6427e844f1efbfa.jpg",
+    "static/media/section-b.jpg": "/headphonesProductPage/static/media/section-b.87a50dce3ab8caef4a85.jpg",
+    "index.html": "/headphonesProductPage/index.html",
+    "main.4e4d20b7.css.map": "/headphonesProductPage/static/css/main.4e4d20b7.css.map",
+    "main.8dc33fbd.js.map": "/headphonesProductPage/static/js/main.8dc33fbd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e4d20b7.css",
+    "static/js/main.8dc33fbd.js"
+  ]
+}
